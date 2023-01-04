@@ -1,0 +1,57 @@
+*Jannah Ayman Amir 19P1728*
+
+December 21, 3:04PM: imported necessary libraries
+December 23, 6:20PM: downloaded training and testing datasets.
+		 7:17PM: added function getFruits() to import data images.
+		 9:40PM: added visualization of training vs test sets plot.
+		 9:55PM: added detailed distribution of fruits among training and testing sets plot.
+December 27, 1:20PM: plot_image_grid() to grid pictures
+	     2:00PM: Grid of sample pictures of fruits training set.
+December 28, 11:32AM: Transformed training and testing sets in black and white.
+January  02,  12:19AM: Contributed to Project Documentation.
+January  03,  10:38AM: Started Project Professional Poster.
+January  04,  2:07PM: Finished Project Professional Poster.
+
+
+*Youssef George Fouad  19P9824*
+
+December 29,  12:00AM: added function prepareForTraining to flatten images for classification.
+December 29,  12:00AM: Linearized images (2D -> 1D)
+December 29,  12:00AM: added function performPCA() to apply PCA with n principal components.
+December 29,  12:00AM: created function perform_and_inverse_PCA() by using inverse_transform() to visualize data (1D -> 2D).
+December 29,  12:00AM: applied PCA on training and testing sets.
+December 29,  12:00AM: Plotted PCA Results for varying n principal components.
+December 30,  12:00AM: applied KNN + (2-11) PC to plot graph and find best accuracy.
+December 30,  12:00AM: applied KNN without PCA to find accuracy.
+December 30,  12:00AM: applied Decision tree + (1-100) PC to plot graph and find maximum accuracy.
+December 30,  12:00AM: applied Decision tree without PCA to find accuracy.
+January	 01,  12:00AM: Contributed to Project Documentation.
+January	 02,  12:00AM: Started Project Presentation.
+January	 03,  12:00AM: Contributed to Project Documentation.
+January	 03,  12:00AM: Finished Project Presentation.
+
+
+*Kerollos Wageeh Youssef  19P3468*
+
+December 31,  12:00AM: applied SVM technique on training and testing sets.
+January	 01,  12:00AM: applied SVM + n PC to plot graph and find best accuracy.
+January	 02,  12:00AM: applied SVM + 2 PC to find accuracy.
+January	 02,  12:00AM: applied SVM without PCA to find accuracy.
+January	 03,  12:00AM: applied SVM with RBF + (1-100) PC to plot graph and find best accuracy.
+January	 03,  12:00AM: applied SVM with RBF + 2 PC to find accuracy.
+January	 03,  12:00AM: applied SVM with RBF without PCA to find accuracy.
+January	 04,  12:00AM: Contributed to Project Documentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
